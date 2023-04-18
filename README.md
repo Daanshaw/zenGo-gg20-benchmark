@@ -11,3 +11,6 @@ Either of commands will produce binaries into ./target/release/examples/ folder.
 Run gg20_demo.ps1. Input the number of parties and threshold.
 
 After every run the files (local-sharex) created in ./target/release/examples/ folder must be deleted before running the program again.  
+
+Files added/changed to the original repo:
+gg20_demo.ps1
