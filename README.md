@@ -1,0 +1,2 @@
+ZenGo-GG20-ECDSA-Benchmark
+This repository contains a PowerShell script that benchmarks the performance of ZenGo's multi-party ECDSA GG20 protocol implementation. The script measures the time required for key generation and signing operations for a specified threshold and number of parties.
